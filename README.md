@@ -1,2 +1,4 @@
 # simple-site
-Simple Site template
+
+This is a simple CCS layout to see how the boxes fit together on a document
+

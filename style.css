@@ -1,0 +1,19 @@
+
+* {
+    box-sizing: border-box;
+    /* to ignore any box borders and make boxes fit to screen 100%*/
+}
+
+header, footer {
+    height: 100px;
+    border: 2px solid black;
+    /* We use clear on both header and footer after floating*/
+    clear: both;
+}
+
+section {
+    height: 200px;
+    border: 2px solid black;
+    width: 33.3333333%;
+    float: left;
+}
